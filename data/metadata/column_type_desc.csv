@@ -1,0 +1,7 @@
+column_name,type
+Age,numerical
+Sex,categorical
+BP,categorical
+Cholesterol,categorical
+Na_to_K,numerical
+Drug,categorical
